@@ -43,7 +43,7 @@ section {
 }
 .new::before{
   content: "";
-  width: 30%;
+  width: 20%;
   height: 5px;
   background-color: black;
   display: block;
@@ -54,7 +54,7 @@ section {
 
 .new::after{
   content: "";
-  width: 30%;
+  width: 20%;
   height: 5px;
   background-color: black;
   display: block;
