@@ -16,6 +16,8 @@ section {
   padding-top: 16rem;
 }
 .card{
+  padding-right: 10px;
+  padding-left: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
   border-radius: 10px;
@@ -61,6 +63,10 @@ section {
   position: absolute;
   top: 50%;
   right: 0;
+}
+
+.sold{
+  color: #e1b391;
 }
 #logo{
   background-color: #fbe9de;
